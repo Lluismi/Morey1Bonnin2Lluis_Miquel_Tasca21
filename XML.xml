@@ -5,14 +5,14 @@
 <!-- Nom de l'autor: Lluis Miquel-->
 	
 <!-- He colocado de esta manera porque es más bonito de ver y fácil de leer-->
-	
+<grup>
 	<nom>
 		Imagine Dragons
 	</nom>
 
-	<año>
+	<date>
 		Creado en el año 2008
-	</año>
+	</date>
 
 	<generos>
 		Pop Rock
@@ -60,3 +60,4 @@
 		Compañia Discografica: Interscope and KIDinaKORNER
 		Lista de canciones: Natural, Zero, Bad Liar.
 	</discografia>
+</grup>
