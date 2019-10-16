@@ -5,59 +5,103 @@
 <!-- Nom de l'autor: Lluis Miquel-->
 	
 <!-- He colocado de esta manera porque es más bonito de ver y fácil de leer-->
-<grup>
+<raiz>
 	<nom>
 		Imagine Dragons
 	</nom>
 
 	<date>
-		Creado en el año 2008
+		2008
 	</date>
 
 	<generos>
-		Pop Rock
-		Electropop
-		Indie Rock 
-		Rock Alternativo
+		<genero>Pop Rock</genero>
+		<genero>Electropop</genero>
+		<genero>Indie Rock</genero>
+		<genero>Rock Alternativo</genero>
 	</generos>
 
 	<pais>
-		Nació en Estados Unidos
+		Estados Unidos
 	</pais>
 
-	<note>
-		Página web de Imagine Dragons https://www.imaginedragonsmusic.com/
-	</note>
+	<pagina>
+		https://www.imaginedragonsmusic.com/
+	</pagina>
 
 	<imagen>
 		http://indiesyvaqueros.es/wp-content/uploads/2018/07/imagine-dragons-640x354.jpg
 	</imagen>
 
 	<videos>
-		https://www.youtube.com/watch?v=ktvTqknDobU
-		https://www.youtube.com/watch?v=j60ClcNYWu4
+		<video>https://www.youtube.com/watch?v=ktvTqknDobU</video>
+		<video>https://www.youtube.com/watch?v=j60ClcNYWu4</video>
 	</videos>
 
 	<members>
-		Miembros del grupo: 
-			Dan Reynolds: Cantante y Teclado
-			Ben McKee: Bajista
-			Daniel Wayne Sermon: Guitarra
-			Daniel Platzman: Bateria
+		<member>
+			<name>Dan Reynolds</name>
+			<instrumento>Cantante</instrumento>
+			<instrumento>Teclado</instrumento>
+		</member>
+		
+		<member>
+			<name>Ben McKee</name>
+			<instrumento>Bajista</instrumento>
+		</member>
+
+		<member>
+			<name>Daniel Wayne Sermon</name>
+			<instrumento>Guitarra</instrumento>
+		</member>
+
+		<member>
+			<name>Daniel Platzman</name>
+			<instrumento>Bateria</instrumento>
+		</member>
 	</members>
 
 	<parecidos>
-		Grupos similares:
-			OneRepublic
-			American Authors
-			Coldplay
-			Maroon 5
+		<Grupos>
+			<grup>OneRepublic</grup>
+			<grup>American Authors</grup>
+			<grup>Coldplay</grup>
+			<grup>Maroon 5</grup>
+		</Grupos>
 	</parecidos>
 
-	<discografia>
-		Nombre del Album: Origins
-		Año: 2018
-		Compañia Discografica: Interscope and KIDinaKORNER
-		Lista de canciones: Natural, Zero, Bad Liar.
-	</discografia>
-</grup>
+	<plate>
+		<disco id='1'>
+			<nom>Night Visions</nom>
+			<year>2012</year>
+			<discografia>Interscope</discografia>
+			<canciones>
+				<cancion >Radioactive</cancion>
+				<cancion>Demons</cancion>
+				<cancion>It's Time</cancion>
+			</canciones>
+		</disco>
+
+		<disco id ='2'>
+			<nom>Evolve</nom>
+			<year>2017</year>
+			<discografia>Interscope and KIDinaKORNER</discografia>
+			<canciones>
+				<cancion>Next to me</cancion>
+				<cancion>Believer</cancion>
+				<cancion>Rise Up</cancion>
+			</canciones>
+		</disco>
+
+		<disco id ='3'>	
+			<nom>Origins</nom>
+			<year>2018</year>
+			<discografia>Interscope and KIDinaKORNER</discografia>
+			<canciones>
+				<cancion>Natural</cancion>
+				<cancion>Zero</cancion>
+				<cancion>Bad Liar</cancion>
+			</canciones>
+		</disco>
+	</plate>
+</raiz>
