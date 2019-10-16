@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Assignatura: Lleguatge de Marques -->
+<!-- Nom del treball: Tasca 2 -->
+<!-- Nom de l'autor: Lluis Miquel-->
+	
+<!-- He colocado de esta manera porque es más bonito de ver y fácil de leer-->
+	
+	<nom>
+		Imagine Dragons
+	</nom>
+
+	<año>
+		Creado en el año 2008
+	</año>
+
+	<generos>
+		Pop Rock
+		Electropop
+		Indie Rock 
+		Rock Alternativo
+	</generos>
+
+	<pais>
+		Nació en Estados Unidos
+	</pais>
+
+	<note>
+		Página web de Imagine Dragons https://www.imaginedragonsmusic.com/
+	</note>
+
+	<imagen>
+		http://indiesyvaqueros.es/wp-content/uploads/2018/07/imagine-dragons-640x354.jpg
+	</imagen>
+
+	<videos>
+		https://www.youtube.com/watch?v=ktvTqknDobU
+		https://www.youtube.com/watch?v=j60ClcNYWu4
+	</videos>
+
+	<members>
+		Miembros del grupo: 
+			Dan Reynolds: Cantante y Teclado
+			Ben McKee: Bajista
+			Daniel Wayne Sermon: Guitarra
+			Daniel Platzman: Bateria
+	</members>
+
+	<parecidos>
+		Grupos similares:
+			OneRepublic
+			American Authors
+			Coldplay
+			Maroon 5
+	</parecidos>
+
+	<discografia>
+		Nombre del Album: Origins
+		Año: 2018
+		Compañia Discografica: Interscope and KIDinaKORNER
+		Lista de canciones: Natural, Zero, Bad Liar.
+	</discografia>
